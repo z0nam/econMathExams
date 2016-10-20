@@ -1,2 +1,2 @@
 # econMathExams
-Examinations for Mathmatis for economics (Namun Cho). Language: Korean
+Examinations for Mathmatics for economics (Namun Cho). Language: Korean
